@@ -8,6 +8,9 @@
 
 Developer from South Africa based in the UK currently on the Cogrammar course to become a Full Stack Web Developer
 
+## Email
+* ameliacoulson197@outlook.com
+
 <Summary>Languages I'm learning:</Summary>
 
 | Languages |
