@@ -13,6 +13,5 @@ Developer from South Africa based in the UK, currently on the Cogrammar course t
 | Languages |
 |-----------|
 | JavaScript|
-| Python    |
 | HTML      |
 | CSS       |
